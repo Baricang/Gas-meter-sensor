@@ -22,7 +22,7 @@ use your own one.
 The door sensor now detects every rotation and you can count it with HomeAssistant. In my case i used NodeRed for it but you can use 
 every other solution. 
 
-![image](https://user-images.githubusercontent.com/55063915/216681266-544bd7a6-42ab-4792-913e-28347899101c.png)
+![image](https://user-images.githubusercontent.com/55063915/216681355-c02b8960-5aad-4983-bdc5-571340cc6ef0.png)
 
 The most improtant thing is to find the right position. It took me some hours to find out at which position the reed-contact needs to be. 
 Some milimeter left or right made the difference. 
