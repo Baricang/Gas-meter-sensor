@@ -55,7 +55,9 @@ If the Aqara door sensor is connected you can use NodeRed. (I`m not the best Nod
 ![image](https://user-images.githubusercontent.com/55063915/216679284-1a3c48f9-f46a-4726-96bc-b2fd7079d217.png)
 
 Gaszähler: This is your door sensor
+
 Init sumcount: This is your start value of your gas meter
+
 count: This is now your increment with each rotation. 
 
 ```
